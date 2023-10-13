@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../70_lesson"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../icons"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../scss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "70_lesson",
+		"liveServer.settings.port": 5501
+	}
+}
